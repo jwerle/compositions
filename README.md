@@ -6,10 +6,10 @@ A collection of various compositions and works of art represented as MIDI, Guita
 ## DAT Public Key
 
 ```
-dat://33672d9f69bb131af571d55bd00e32012797c810df2eae88b1cef2a4b3420310
+dat://6e1830b348da26439c4717c739ac582feed28105f386038e1801163ba989ab8d
 ```
 
-_`018488bee0a7a33926a041173db98f3d93f2f3aa6da9990f398f3fa266e44146`_ (Discovery Key)
+_`d912b7ae1384e7950d845d7fc0c348648aae6640843c9ee6a078050941c3221`_ (Discovery Key)
 
 ## License
 
